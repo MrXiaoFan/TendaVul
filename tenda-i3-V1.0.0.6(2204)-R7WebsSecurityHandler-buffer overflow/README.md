@@ -6,7 +6,7 @@ Product:i3
 
 Version: V1.0.0.6(2204)
 
-Vulnerability: buffer overflow
+Vulnerability: Authentication Bypass Issues
 
 Firmware Download:https://www.tenda.com.cn/material/show/2480
 
