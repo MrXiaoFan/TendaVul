@@ -1,2 +1,0 @@
-# TendaVul
-Tenda equipment vulnerability
